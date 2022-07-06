@@ -47,6 +47,10 @@ main div{
     gap: 1rem;
     padding: 15px;
 }
+img{
+    max-width: 450px;
+    max-height: 338px;
+}
 .container{
     display: flex;
     flex-direction: column;
