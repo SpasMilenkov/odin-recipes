@@ -15,6 +15,8 @@ h1{
 a{
     display: flex;
     align-items: center;
+    text-decoration: none;
+    color: white;
 }
 .top-bar{
     width: 100%;
@@ -39,4 +41,16 @@ img{
     gap: 15px;
     align-items: center;
     justify-content: center;
+}
+footer{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(39, 40, 41);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 2rem;
+    overflow: auto;
+    overflow-y: hidden;
+    padding-bottom: 5px;
 }
